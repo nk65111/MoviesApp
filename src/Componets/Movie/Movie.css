@@ -1,0 +1,32 @@
+.movie-item{
+    height: 330px;
+    width: 200px;
+    color: white;
+    font-size: 0.7rem;
+    background-color: #636e72;
+}
+
+.movie-item:hover{
+    transform: scale(1.05);
+}
+.movie-poster{
+    height: 85%;
+    width: 100%;
+}
+.movie-poster img{
+    height: 100%;
+    width: 100%;
+}
+.movie-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    align-items: center;
+    height: 15%;
+}
+.movie-title{
+
+}
+.movie-rating{
+
+}

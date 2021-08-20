@@ -1,0 +1,8 @@
+
+.Movies {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 4rem;
+    gap: 60px;
+}
